@@ -1,5 +1,10 @@
-title: Expert Knowledge-Aware Image Difference Graph Representation Learning for Difference-Aware Medical Visual Question Answering
+title: MIMIC-Diff-VQA
 description: Difference VQA is a new medical task, involves comparing two images. We propose this task to mimic actual clinical procedures. A large-scale CXR dataset, MIMIC-Diff-VQA, and a graph-based method are proposed to support this task.
 show_downloads: false
 google_analytics: G-2EC8PQZE63
 theme: jekyll-theme-cayman
+full_paper: https://arxiv.org/abs/2307.11986
+dataset: https://github.com/Holipori/MIMIC-Diff-VQA
+code: https://github.com/Holipori/EKAID
+#  zip_url: http://example.com/download.zip
+#  another_url: another value
