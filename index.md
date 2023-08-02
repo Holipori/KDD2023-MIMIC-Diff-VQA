@@ -4,7 +4,7 @@ layout: default
 
 Thank you for your interest in our paper 'Expert Knowledge-Aware Image Difference Graph Representation Learning for Difference-Aware Medical Visual Question Answering'.
 
-<p align="center"><iframe width="640" height="480" src="http://www.youtube.com/embed/y4Bny9VThu0" frameborder="0" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/y4Bny9VThu0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 # Paper link
 
