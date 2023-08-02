@@ -1,5 +1,5 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Expert Knowledge-Aware Image Difference Graph Representation Learning for Difference-Aware Medical Visual Question Answering
+description: Difference VQA is a new medical task, involves comparing two images. We propose this task to mimic actual clinical procedures. A large-scale CXR dataset, MIMIC-Diff-VQA, and a graph-based method are proposed to support this task.
+show_downloads: false
+google_analytics: G-2EC8PQZE63
 theme: jekyll-theme-cayman
