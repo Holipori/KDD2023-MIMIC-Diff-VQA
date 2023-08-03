@@ -10,6 +10,12 @@ Thank you for your interest in our paper 'Expert Knowledge-Aware Image Differenc
 
 Please use this link to access the full paper: [https://arxiv.org/abs/2307.11986](https://arxiv.org/abs/2307.11986)
 
+# Poster and slides
+
+![Poster](poster.png)
+
+Slides download link: [KDD23 MIMIC-Diff-VQA.pptx](KDD23 MIMIC-Diff-VQA.pptx) 
+
 # MIMIC-Diff-VQA Dataset
 
 The dataset is currently under review on PhysioNet. We will update the link to the dataset once it is available.

@@ -6,5 +6,7 @@ theme: jekyll-theme-cayman
 full_paper: https://arxiv.org/abs/2307.11986
 dataset: https://github.com/Holipori/MIMIC-Diff-VQA
 code: https://github.com/Holipori/EKAID
+github:
+  is_project_page: false
 #  zip_url: http://example.com/download.zip
 #  another_url: another value
