@@ -8,11 +8,11 @@ Thank you for your interest in our paper 'Expert Knowledge-Aware Image Differenc
 
 # Paper link
 
-Please use this link to access the full paper: [https://arxiv.org/abs/2307.11986](https://arxiv.org/abs/2307.11986)
+Please use this link to access the full paper: [https://dl.acm.org/doi/10.1145/3580305.3599819](https://dl.acm.org/doi/10.1145/3580305.3599819)
 
 # Poster and slides
 
-![Poster](poster.png)
+![Poster](Poster.png)
 
 Slides download link: [KDD23 MIMIC-Diff-VQA.pptx](KDD23 MIMIC-Diff-VQA.pptx) 
 
