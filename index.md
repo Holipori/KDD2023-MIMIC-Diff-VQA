@@ -14,7 +14,7 @@ Please use this link to access the full paper: [https://dl.acm.org/doi/10.1145/3
 
 ![Poster](Poster.png)
 
-Slides download link: [KDD23 MIMIC-Diff-VQA.pptx](KDD23 MIMIC-Diff-VQA.pptx) 
+Slides download link: [KDD23 Medical-Diff-VQA.pptx](KDD23 MIMIC-Diff-VQA.pptx) 
 
 # Medical-Diff-VQA Dataset (originally MIMIC-Diff-VQA)
 
