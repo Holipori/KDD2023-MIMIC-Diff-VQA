@@ -1,10 +1,10 @@
-title: MIMIC-Diff-VQA
-description: Difference VQA is a new medical task, involves comparing two images. We propose this task to mimic actual clinical procedures. A large-scale CXR dataset, MIMIC-Diff-VQA, and a graph-based method are proposed to support this task.
+title: Medical-Diff-VQA
+description: (originally MIMIC-Diff-VQA)\n Difference VQA is a new medical task, involves comparing two images. We propose this task to mimic actual clinical procedures. A large-scale CXR dataset, Medical-Diff-VQA, and a graph-based method are proposed to support this task.
 show_downloads: false
 google_analytics: G-2EC8PQZE63
 theme: jekyll-theme-cayman
 full_paper: https://arxiv.org/abs/2307.11986
-dataset: https://github.com/Holipori/MIMIC-Diff-VQA
+dataset: https://physionet.org/content/medical-diff-vqa/1.0.0/
 code: https://github.com/Holipori/EKAID
 github:
   is_project_page: false

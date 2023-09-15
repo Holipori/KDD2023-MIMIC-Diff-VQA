@@ -16,9 +16,9 @@ Please use this link to access the full paper: [https://dl.acm.org/doi/10.1145/3
 
 Slides download link: [KDD23 MIMIC-Diff-VQA.pptx](KDD23 MIMIC-Diff-VQA.pptx) 
 
-# MIMIC-Diff-VQA Dataset
+# Medical-Diff-VQA Dataset (originally MIMIC-Diff-VQA)
 
-The dataset is currently under review on PhysioNet. We will update the link to the dataset once it is available.
+The dataset is now available on [PhysioNet](https://physionet.org/content/medical-diff-vqa/1.0.0/).
 
 The code used for generating the dataset is available at [https://github.com/Holipori/MIMIC-Diff-VQA](https://github.com/Holipori/MIMIC-Diff-VQA)
 
