@@ -3,7 +3,7 @@ description: (originally MIMIC-Diff-VQA) Difference VQA is a new medical task, i
 show_downloads: false
 google_analytics: G-2EC8PQZE63
 theme: jekyll-theme-cayman
-full_paper: https://arxiv.org/abs/2307.11986
+full_paper: https://dl.acm.org/doi/abs/10.1145/3580305.3599819
 dataset: https://physionet.org/content/medical-diff-vqa/1.0.0/
 code: https://github.com/Holipori/EKAID
 github:
