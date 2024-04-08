@@ -26,7 +26,5 @@ The code used for generating the dataset is available at [https://github.com/Hol
 
 The code for the method is available at [https://github.com/Holipori/EKAID](https://github.com/Holipori/EKAID)
 
-<p align="center"><iframe src="https://drive.google.com/file/d/1vUZBYYcJJSrQYj-v48chh4bnjlX5cm7R/preview" width="640" height="480" allow="autoplay"></iframe></p>
-
-
+<p align="center"><iframe src="https://drive.google.com/file/d/1n7ojQRn1CWiRyk3VHfJHVnMxl4la7GCO/preview" width="640" height="480" allow="autoplay"></iframe></p>
 
